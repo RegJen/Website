@@ -2,6 +2,7 @@
 
 This is the readme file for this project.
 
-# More updates from Tortoise Git
+# Some Change on Master
 
-Updates on the feature branch
+There is some changes on the Master branch using the Window
+file explorer to manage Git repositories.
