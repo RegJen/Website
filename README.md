@@ -6,3 +6,7 @@ This is the readme file for this project.
 
 There is some changes on the Master branch using the Window
 file explorer to manage Git repositories.
+
+## Testing ATOM new package
+
+git-contolhub function
