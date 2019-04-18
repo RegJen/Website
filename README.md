@@ -10,3 +10,7 @@ file explorer to manage Git repositories.
 ## Testing ATOM new package
 
 git-contolhub function
+
+# GITExtension function Testing
+
+Updated

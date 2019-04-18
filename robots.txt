@@ -8,3 +8,5 @@ Disallow:
 
 Stuff here should conflict
 more stuff here
+
+Adding file
